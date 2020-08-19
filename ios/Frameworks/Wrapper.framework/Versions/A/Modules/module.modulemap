@@ -1,0 +1,8 @@
+framework module "Wrapper" {
+	header "ref.h"
+    header "Wrapper.objc.h"
+    header "Universe.objc.h"
+    header "Wrapper.h"
+
+    export *
+}

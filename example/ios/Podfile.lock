@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - sharik_wrapper (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - sharik_wrapper (from `.symlinks/plugins/sharik_wrapper/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  sharik_wrapper:
+    :path: ".symlinks/plugins/sharik_wrapper/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  sharik_wrapper: 215ac1641ccc3639eab42f9eeb04ad372cca669c
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
